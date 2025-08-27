@@ -887,4 +887,4 @@ page_map.get(nav, page_executive_insights)()
 # Footer
 # -----------------------
 st.markdown("<hr style='margin-top:18px'/>", unsafe_allow_html=True)
-st.markdown("<div style='text-align:center; color:#6b7280;'>Built for Jojo Montford — Intertek Geronimo Sales (Ghana) • Full Executive Insights (3D)</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align:center; color:#6b7280;'>Built by Jojo Montford — Intertek Geronimo Sales (Ghana) • Full Executive Insights (3D)</div>", unsafe_allow_html=True)
